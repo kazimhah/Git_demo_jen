@@ -13,7 +13,7 @@ import javax.ws.rs.core.Response;
 // text, XML and HTML. 
 
 // The browser requests per default the HTML MIME type.
-
+// Change test
 //Sets the path to base URL + /
 
 //http://localhost:8080/RESTfulWebService/rest/hello/Zakeer
